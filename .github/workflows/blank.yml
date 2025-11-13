@@ -1,0 +1,37 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+# 用于生成一个蛇吃贡献图的GitHub Action
+
+name: Generate Snake
+# 定义工作流的名称为“Generate Snake”，即“生成蛇”
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 每天午夜（0点）自动触发工作流
+  workflow_dispatch:     # 允许手动触发工作流
+# 定义工作流的触发条件
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # 在最新的Ubuntu环境中运行
+# 定义一个名为“build”的工作（job）
+
+    steps:
+      - name: Checkout  # 检出仓库代码
+        uses: actions/checkout@v2.3.4  # 使用actions/checkout@v2.3.4来检出代码
+    # 第一步：检出当前仓库的代码，以便后续步骤可以操作这些代码
+
+      - name: Generate Snake  # 生成蛇吃贡献图
+        uses: Platane/snk@master  # 使用Platane/snk@master来生成蛇吃贡献图
+        id: snake-gif  # 给这个步骤定义一个ID，方便后续引用
+        with:
+          github_user_name: ${{ github.repository_owner }}  # 当前仓库的所有者（即你的GitHub用户名）
+          gif_out_path: ./assets/github-contribution-grid-snake.gif  # 生成的GIF文件路径
+          svg_out_path: ./assets/github-contribution-grid-snake.svg  # 生成的SVG文件路径
+    # 第二步：生成蛇吃贡献图，并定义输出文件路径
+
+      - name: Push to GitHub  # 将生成的文件提交到GitHub
+        uses: EndBug/add-and-commit@v7.2.1  # 使用EndBug/add-and-commit@v7.2.1来提交文件
+        with:
+          branch: main  # 提交到main分支
+          message: 'Generate Contribution Snake'  # 提交信息
+    # 第三步：将生成的GIF和SVG文件提交到GitHub仓库的main分支
