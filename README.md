@@ -4,5 +4,5 @@
 [![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Macorai&show_icons=true&locale=cn&theme=default#gh-light-mode-only)](https://github.com/Macorai/github-readme-stats#gh-light-mode-only)
 [![Macorai's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=tokyo-night#gh-dark-mode-only)](https://github.com/Macorai/github-readme-activity-graph#gh-dark-mode-only)
 [![Macorai's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=minimal#gh-light-mode-only)](https://github.com/Macorai/github-readme-activity-graph#gh-light-mode-only)
-[![Macorai's snake stats-Dark](https://github.com/Macorai/Macorai/blob/main/assets/snake-dark.svg)](https://github.com/Macorai/Macorai/blob/main/assets/snake-dark.svg)
-[![Macorai's snake stats-Light](https://github.com/Macorai/Macorai/blob/main/assets/snake-light.svg)](https://github.com/Macorai/Macorai/blob/main/assets/snake-light.svg)
+[![Macorai's snake stats-Dark](https://github.com/Macorai/Macorai/blob/main/assets/snake-dark.svg)](https://github.com/Macorai/Macorai/blob/main/assets/snake-dark.svg#gh-dark-mode-only)
+[![Macorai's snake stats-Light](https://github.com/Macorai/Macorai/blob/main/assets/snake-light.svg)](https://github.com/Macorai/Macorai/blob/main/assets/snake-light.svg#gh-light-mode-only)
