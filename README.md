@@ -12,8 +12,8 @@
     </td>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-macora.vercel.app/api/top-langs?username=Macorai&layout=compact&langs_count=8&card_width=320&theme=tokyonight">
-        <img alt="Top Langs" src="https://github-readme-stats-macora.vercel.app/api/top-langs?username=Macorai&layout=compact&langs_count=8&card_width=320&theme=default" width="500" height="200">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-macora.vercel.app/api/top-langs/?username=Macorai&show_icons=true&layout=compact&langs_count=8&card_width=320&locale=cn&theme=tokyonight">
+        <img alt="Top Langs" src="https://github-readme-stats-macora.vercel.app/api/top-langs?username=Macorai&show_icons=true&layout=compact&langs_count=8&card_width=320&locale=cn&theme=default" width="500" height="200">
       </picture>
     </td>
   </tr>
