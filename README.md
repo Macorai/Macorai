@@ -1,6 +1,6 @@
 <div align="center">
 
-### Counter
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=6C8BD6&center=true&vCenter=true&height=30&lines=Counter)](https://git.io/typing-svg)
 ![:Macorai](https://count.getloli.com/@Macora?name=Macorai&theme=rule34&padding=7&offset=-3&align=center&scale=1.1&pixelated=1&darkmode=auto)
 <table style="border-collapse: collapse; border-spacing: 0;">
   <tr>
@@ -22,6 +22,6 @@
 [![Macorai's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=tokyo-night#gh-dark-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=tokyo-night#gh-dark-mode-only)
 [![Macorai's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=minimal#gh-light-mode-only)](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=minimal#gh-light-mode-only)
 ---
-### Snake Animation
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=6C8BD6&center=true&vCenter=true&height=30&lines=Snake+Animation)](https://git.io/typing-svg)
 [![Macorai's snake stats-Dark](https://github.com/Macorai/Macorai/blob/main/assets/snake-dark.svg)](https://github.com/Macorai/Macorai/blob/main/assets/snake-dark.svg#gh-dark-mode-only)
 [![Macorai's snake stats-Light](https://github.com/Macorai/Macorai/blob/main/assets/snake-light.svg)](https://github.com/Macorai/Macorai/blob/main/assets/snake-light.svg#gh-light-mode-only)
