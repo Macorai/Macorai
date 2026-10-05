@@ -19,8 +19,8 @@
   </tr>
 </table>
 
-[![Macorai's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=tokyo-night#gh-dark-mode-only)](https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
-[![Macorai's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Macorai&area=true&theme=minimal#gh-light-mode-only)](https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
+[![Macorai's github activity graph stats-Dark](https://https://github-readme-activity-graph-macora.vercel.app/graph?username=Macorai&area=true&theme=tokyo-night#gh-dark-mode-only)](https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
+[![Macorai's github activity graph stats-Light](https://https://github-readme-activity-graph-macora.vercel.app/graph?username=Macorai&area=true&theme=minimal#gh-light-mode-only)](https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
 ---
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=6C8BD6&center=true&vCenter=true&height=30&lines=Snake+Animation)](https://git.io/typing-svg)
 [![Macorai's snake stats-Dark](https://github.com/Macorai/Macorai/blob/main/assets/snake-dark.svg)](https://github.com/Platane/snk#gh-dark-mode-only)
