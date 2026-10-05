@@ -6,13 +6,15 @@
   <tr>
     <td style="padding: 0; border: none;" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-macora.vercel.app/api?username=Macorai&show_icons=true&locale=cn&theme=tokyonight">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-macora.vercel.app/api?username=Macorai&show_icons=true&locale=cn&theme=tokyonight#gh-dark-mode-only">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-macora.vercel.app/api?username=Macorai&show_icons=true&locale=cn&theme=default#gh-light-mode-only">
         <img alt="Macorai's GitHub stats" src="https://github.com/anuraghazra/github-readme-stats" width="500" height="200" style="display: block; margin: 0 auto;">
       </picture>
     </td>
     <td style="padding: 0; border: none;" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-macora.vercel.app/api/top-langs/?username=Macorai&show_icons=true&layout=compact&card_width=320&locale=cn&theme=tokyonight">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-macora.vercel.app/api/top-langs/?username=Macorai&show_icons=true&layout=compact&card_width=320&locale=cn&theme=tokyonight#gh-dark-mode-only">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-macora.vercel.app/api/top-langs/?username=Macorai&show_icons=true&layout=compact&card_width=320&locale=cn&theme=default#gh-light-mode-only">
         <img alt="Top Langs" src="https://github.com/anuraghazra/github-readme-stats" width="480" height="200" style="display: block; margin: 0 auto;">
       </picture>
     </td>
